@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shreenidhi
+- 👋 Hi, I’m Shreenidhi.N.Koppal
 - 👀 I’m interested in Learning more about telegram bot codes and Web Developement.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on some groups in github.
